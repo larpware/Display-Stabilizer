@@ -7,7 +7,7 @@
 ## 1. Hardware Target & Diagnostic Overview
 
 ### The Target Environment
-- **Monitor:** Acer V193HQL (18.5" / 1366×768 native resolution @ 60 Hz).
+- **Monitor:** Acer V193HQL (18.5" / 1366×768 native resolution @ 60 Hz). (my current monitor, you can probably use it on your one too.)
 - **Interface:** Analog VGA (DE-15 connector, 75Ω RGB coaxial signals).
 - **Hardware History:** The monitor was previously dropped and has a visible physical crack in the panel.
 - **Reported Symptoms:**
