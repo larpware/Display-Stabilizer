@@ -1,0 +1,13 @@
+# Build and temporary files
+build/
+bin/
+out/
+.vs/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.user
+DisplayStabilizer_Release.zip
